@@ -68,7 +68,12 @@ VC Student number: ST10084433
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Github:
-https://github.com/Mxttk/ST10084433-PROG6221-POE.git
+
+Profile link : https://github.com/Mxttk
+
+**Look under projects to see kanban board created for workflow**
+
+Repo link : https://github.com/Mxttk/ST10084433-PROG6221-POE.git
 
 **NOTE: Never committed first attempt to repository, first commit was made with Part 2 of the POE only**
 
