@@ -68,7 +68,7 @@ VC Student number: ST10084433
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Github:
-https://github.com/Mxttk/ST10084433-PROG6211-POE.git
+https://github.com/Mxttk/ST10084433-PROG6221-POE.git
 
 **NOTE: Never committed first attempt to repository, first commit was made with Part 2 of the POE only**
 
