@@ -1,0 +1,24 @@
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe.config
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.pdb
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.AssemblyReference.cache
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.exe
+C:\Users\mattd\source\repos\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.pdb
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.AssemblyReference.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.exe
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.pdb
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe.config
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\Backup POE Part 1\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.pdb
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe.config
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.exe
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\bin\Debug\BudgetPlanner.pdb
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.AssemblyReference.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.exe
+C:\Users\mattd\OneDrive\Desktop\Modules\PROG\POE Part 2\BudgetPlanner\BudgetPlanner\obj\Debug\BudgetPlanner.pdb
