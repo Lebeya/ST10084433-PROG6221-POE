@@ -1,7 +1,5 @@
 # ST10084433-PROG6211-POE
 
-# ST100084433-PROG-POE
-
 Welcome to the README for the Budgeting App program:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This app has been designed to allow the user to manage their finances and provides an easy method of viewing their funds after monthly deductions have been made
